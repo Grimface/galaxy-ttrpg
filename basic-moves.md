@@ -14,7 +14,7 @@ When someone is injured and you __Get Them To Medbay__ aboard your ship roll *+S
 * On a 7-9 they recover from two injuries.
 * On a miss, they recover one injury.  
 
-Once a patient is in Medbay, you cannot use Patch Someone Up on them.
+Once a patient is in Medbay, you cannot use __Patch Someone Up__ on them.
 
 ---
 
