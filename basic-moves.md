@@ -1,6 +1,6 @@
 # Basic Moves That Everyone Can Do
 
-When someone is injured and you Get Them To Medbay aboard your ship roll *+Sharp* to see how many injuries they recover from every 24 hours. 
+When someone is injured and you __Get Them To Medbay__ aboard your ship roll *+Sharp* to see how many injuries they recover from every 24 hours. 
 * On a 10+ they recover from three injuries.
 * On a 7-9 they recover from two injuries.
 * On a miss, they recover one injury.  
@@ -9,7 +9,7 @@ Once a patient is in Medbay, you cannot use Patch Someone Up on them.
 
 ---
 
-When you Resort To Violence, roll *+Tough*:
+When you __Resort To Violence__, roll *+Tough*:
 - On any success (7+), you inflict harm on (and suffer harm from) whatever you’re fighting. This usually means you inflict the harm rating of your weapon and your enemies inflict their attack’s harm rating on you.
 - On a 10+, choose one extra effect:
   - You gain the advantage: take +1 forward
@@ -23,7 +23,7 @@ This result of this move reflects a short series of back-and-forth attacks by th
 
 ---
 
-When you Lend A Hand to someone attempting something challenging, describe how you help and roll +(whatever the person you’re helping is rolling).  
+When you __Lend A Hand__ to someone attempting something challenging, describe how you help and roll +(whatever the person you’re helping is rolling).  
 E.g. if you’re helping a person rolling *+Tough*, you will roll *+Tough* also.
 - On a 10+, you give them +1 to their roll.
 - On a 7-9, you give them +1 to their roll, but you expose yourself to danger.
@@ -31,7 +31,7 @@ E.g. if you’re helping a person rolling *+Tough*, you will roll *+Tough* also.
 
 ---
 
-When you use a medkit to Patch Someone Up in or shortly after combat, roll *+Cool*:
+When you use a medkit to __Patch Someone Up__ in or shortly after combat, roll *+Cool*:
 - On a 10+, they recover from two injuries. 
 - On a 7-9, they recover from one injury, or two if you expose yourself to danger. Your choice.
 - On a miss, you inflict one further wound on them.  
@@ -40,7 +40,7 @@ Only one attempt to Patch Someone Up can be made on a patient until they have be
 
 ---
 
-When you Activate Scanners (personal or ship) to survey somewhere, roll *+Sharp*.  
+When you __Activate Scanners__ (personal or ship) to survey somewhere, roll *+Sharp*.  
 The GM must answer questions honestly and, unless stated otherwise, reasonably directly, but not necessarily in full!
 - On a 10+, ask two questions from this list:
   - Where are my fellow crew members? 
