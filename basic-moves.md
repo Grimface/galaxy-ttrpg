@@ -9,7 +9,7 @@ This move is basically a catch-all move for when a character attempts something 
 
 ---
 
-When someone is injured and you __Get Them To Medbay__ aboard your ship roll *+Sharp* to see how many injuries they recover from every 24 hours. 
+When someone is injured and you __Get Them To Medbay__ aboard your ship roll *+Cool* to see how quickly you got them there, and thus how many injuries they recover from every 24 hours. 
 * On a 10+ they recover from three injuries.
 * On a 7-9 they recover from two injuries.
 * On a miss, they recover one injury.  
@@ -82,7 +82,7 @@ When you __Try To Protect Someone__, roll *+Tough*:
 
 ---
 
-When you __Invoke “Handwavium”__ to explain how the impossible might be possible, if our understanding of science is wrong, explain it to the group. Use as much technobabble as possible, and then roll *+Anomalous*:
+Once per session you may __Invoke “Handwavium”__ to explain how the seemingly impossible might be possible, with the application of some truly advanced super-science. Explain it to the group using as much technobabble as possible, and then roll *+Anomalous*:
 - On a 10+, it works! Choose an effect from the list below.
 - On a 7-9, it works, but there’s a glitch. Choose an effect and the GM will choose/invent a glitch.
 - On a miss, it goes horribly and spectacularly wrong.
