@@ -1,5 +1,14 @@
 # Basic Moves That Everyone Can Do
 
+When you __Act Under Pressure__, roll *+Cool*:
+- On a 10+ you do what you set out to.
+- On a 7-9 the Keeper is going to give you a worse outcome, a hard choice, a or price to pay. 
+- On a miss, things go to hell.
+
+This move is basically a catch-all move for when a character attempts something risky that's not covered by any of the other moves.
+
+---
+
 When someone is injured and you __Get Them To Medbay__ aboard your ship roll *+Sharp* to see how many injuries they recover from every 24 hours. 
 * On a 10+ they recover from three injuries.
 * On a 7-9 they recover from two injuries.
