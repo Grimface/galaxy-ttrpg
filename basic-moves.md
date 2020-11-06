@@ -1,6 +1,6 @@
 # Basic Moves That Everyone Can Do
 
-Aboard your ship, when someone is injured and you Get Them To Medbay! roll *+Sharp* to see how many injuries they recover from every 24 hours. 
+When someone is injured and you Get Them To Medbay aboard your ship roll *+Sharp* to see how many injuries they recover from every 24 hours. 
 * On a 10+ they recover from three injuries.
 * On a 7-9 they recover from two injuries.
 * On a miss, they recover one injury.  
@@ -10,8 +10,8 @@ Once a patient is in Medbay, you cannot use Patch Someone Up on them.
 ---
 
 When you Resort To Violence, roll *+Tough*:
-- On any success (7+), you inflict harm on (and suffer harm from) whatever you’re fighting. This usually means you inflict the harm rating of your weapon and your enemies inflict their attack’s harm rating on you. 
--  On a 10+, choose one extra effect:
+- On any success (7+), you inflict harm on (and suffer harm from) whatever you’re fighting. This usually means you inflict the harm rating of your weapon and your enemies inflict their attack’s harm rating on you.
+- On a 10+, choose one extra effect:
   - You gain the advantage: take +1 forward
   - Give +1 forward to another character. 
   - You inflict terrible harm (+1 harm). 
@@ -60,9 +60,13 @@ When you __Lean On Someone__ in an effort to make them do what you want, describ
 - On a 7-9, they’ll do what you want, but only if you do something for them first.
 - On a miss, they refuse and are offended or enraged that you would even ask.
 
-When you Try To Protect Someone, roll *+Tough*:
+When you __Try To Protect Someone__, roll *+Tough*:
 - On any success (7+), you protect them okay, but you’ll suffer some or all of the harm they were going to get.
-- On a 10+, choose an extra: You suffer 1 less harm. All enemies are now focused on you. You inflict harm on the enemy. You hold the enemy back.
+- On a 10+, choose an extra: 
+  - You suffer 1 less harm. 
+  - All enemies are now focused on you. 
+  - You inflict harm on the enemy. 
+  - You hold the enemy back.
 - On a miss, then you end up making things worse.
 
 When you __Invoke “Handwavium”__ to explain how the impossible might be possible, if our understanding of science is wrong, explain it to the group. Use as much technobabble as possible, and then roll *+Anomalous*:
