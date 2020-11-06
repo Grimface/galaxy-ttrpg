@@ -43,7 +43,7 @@ E.g. if you’re helping a person rolling *+Tough*, you will roll *+Tough* also.
 When you use a medkit to __Patch Someone Up__ in or shortly after combat, roll *+Cool*:
 - On a 10+, they recover from two injuries. 
 - On a 7-9, they recover from one injury, or two if you expose yourself to danger. Your choice.
-- On a miss, you inflict one further wound on them.  
+- On a miss, you bungle it badly and inflict one further wound on them.  
 
 Only one attempt to Patch Someone Up can be made on a patient until they have been fully healed.
 
