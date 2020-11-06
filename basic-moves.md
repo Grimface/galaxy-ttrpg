@@ -83,10 +83,13 @@ When you __Try To Protect Someone__, roll *+Tough*:
 ---
 
 Once per session you may __Invoke “Handwavium”__ to explain how the seemingly impossible might be possible, with the application of some truly advanced super-science. Explain it to the group using as much technobabble as possible, and then roll *+Anomalous*:
-- On a 10+, it works! Choose an effect from the list below.
+- On a 10+, it works! Choose an effect from this list:
   - TODO
   - TODO
   - TODO
   - TODO
-- On a 7-9, it works, but there’s a glitch. Choose an effect and the GM will choose/invent a glitch.
+- On a 7-9, it works, but there’s a glitch. Choose an effect from the list and the GM will invent a glitch or choose one from this list:
+  - TODO
+  - TODO
+  - TODO
 - On a miss, it goes horribly and spectacularly wrong.
