@@ -31,21 +31,21 @@ When you **Get Them To Medbay!** aboard your ship, you may roll *+Sharp* instead
 When you __Activate Scanners__ (personal or ship) to survey somewhere, roll *+Sharp* and add +1.
 
 
-Aboard ship, when you __Take It Into The Lab__ to study something, roll *+Sharp*. 
-The GM must answer questions honestly and, unless stated otherwise, reasonably directly, but not necessarily in full.
+Aboard ship, when you __Take It Into The Lab__ to study something, roll *+Sharp*:  
+The GM must answer questions honestly and, unless stated otherwise, reasonably directly, but not necessarily in full.  
 - On a 10+, ask two questions from the list below.
 - On a 7-9, ask one question from the list.
-- On a miss, ask one question from the list, but the GM can answer as cryptically or vaguely as they choose.
+- On a miss, ask one question from the list, but the GM can answer as cryptically or vaguely as they choose.  
 What is the purpose of this? How dangerous is it? How can I activate it? How can I deactivate/destroy/counter it? How can I duplicate/recreate it?
 
 
-When you __Jury-Rig Something__ to either create or fix it, roll *+Sharp*.
+When you __Jury-Rig Something__ to either create or fix it, roll *+Sharp*:  
 - On a 10+, it works like a charm. If undamaged, it will last as long as you need it to.
 - On a 7-9 it will work until the end of the current scene, or requires you to actively hold it together/in place. You choice.
 - On a miss, it fails and breaks one of its key components.
 
 
-When you __Use Handwavium__ to explain how the impossible might be possible if our understanding of science is wrong, roll __+Anomalous__:
+When you __Use Handwavium__ to explain how the impossible might be possible if our understanding of science is wrong, roll __+Anomalous__:  
 TODO
 
 
@@ -57,12 +57,11 @@ Choose one line and fill them in the circles below:
 - Charm=0, Cool-1, Sharp+2, Tough+1, Anomalous+1
 - Charm=0, Cool+2, Sharp+1, Tough+1, Anomalous+1
 
--[ ] Charm
--[ ] Cool
--[ ] Sharp
--[ ] Tough
--[ ] Anomalous
-
+- [ ] Charm
+- [ ] Cool
+- [ ] Sharp
+- [ ] Tough
+- [ ] Anomalous
 
 ### Pick your starting gear:
 TODO
