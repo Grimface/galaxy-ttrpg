@@ -41,3 +41,35 @@ When you Jury-Rig Something to either create or fix it, roll +Sharp.
 
 When you Use Handwavium to explain how the impossible might be possible if our understanding of science is wrong, roll +Anomalous:
 TODO
+
+
+Ratings: Choose one line and fill them in the circles below:
+Charm+1, Cool=0, Sharp+2, Tough-1, Anomalous+1
+Charm-1, Cool+1, Sharp+1 Tough=0, Anomalous+2
+Charm+1, Cool-1, Sharp+2, Tough=0, Anomalous+1
+Charm=0, Cool-1, Sharp+2, Tough+1, Anomalous+1
+Charm=0, Cool+2, Sharp+1, Tough+1, Anomalous+1
+
+__ Charm
+__ Cool
+__ Sharp
+__ Tough
+__ Anomalous
+
+
+Pick your starting gear:
+TODO
+
+
+Injuries:
+* Minor
+* Minor
+* Minor (-1 to all rolls)
+* Moderate (-2 to all rolls)
+* Moderate (-2 to all rolls)
+* Moderate (-3 to all rolls)
+* Serious (-4 to all rolls)
+* Grievous (-5 to all rolls. Will be dying next round)
+* Dying (Can’t take actions. Will be dead next round)
+* Dead (Can’t be healed by Patch Someone Up)
+* Profoundly disassembled (Can’t Get Them To Medbay!)
