@@ -76,7 +76,7 @@ When you __Try To Protect Someone__, roll *+Tough*:
 - On a 10+, choose an extra: 
   - You suffer 1 less harm. 
   - All enemies are now focused on you. 
-  - You inflict harm on the enemy. 
+  - You inflict harm on the enemy. (Usually your weapon damage, but it depends on the situation)
   - You hold the enemy back.
 - On a miss, then you end up making things worse.
 
