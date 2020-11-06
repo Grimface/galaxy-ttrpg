@@ -69,6 +69,8 @@ When you __Lean On Someone__ in an effort to make them do what you want, describ
 - On a 7-9, they’ll do what you want, but only if you do something for them first.
 - On a miss, they refuse and are offended or enraged that you would even ask.
 
+---
+
 When you __Try To Protect Someone__, roll *+Tough*:
 - On any success (7+), you protect them okay, but you’ll suffer some or all of the harm they were going to get.
 - On a 10+, choose an extra: 
@@ -77,6 +79,8 @@ When you __Try To Protect Someone__, roll *+Tough*:
   - You inflict harm on the enemy. 
   - You hold the enemy back.
 - On a miss, then you end up making things worse.
+
+---
 
 When you __Invoke “Handwavium”__ to explain how the impossible might be possible, if our understanding of science is wrong, explain it to the group. Use as much technobabble as possible, and then roll *+Anomalous*:
 - On a 10+, it works! Choose an effect from the list below.
