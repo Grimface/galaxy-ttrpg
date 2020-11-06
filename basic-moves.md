@@ -55,7 +55,7 @@ The GM must answer questions honestly and, unless stated otherwise, reasonably d
 
 ---
 
-When you __Lean On Someone__ in an effort to make them do what you want, describe your approach If the GM thinks it’s reasonable/possible that your target might be persuaded, roll *+Charm*:
+When you __Lean On Someone__ in an effort to make them do what you want, describe your approach. If the GM thinks it’s reasonable/possible that your target might be persuaded, roll *+Charm*:
 - On a 10+, they do what you want.
 - On a 7-9, they’ll do what you want, but only if you do something for them first.
 - On a miss, they refuse and are offended or enraged that you would even ask.
