@@ -14,3 +14,4 @@ Relationships: Pick one for each other character
 * You and __________ are close relations. Agree with them exactly how you’re related.
 * __________ is one of the few people you are genuinely scared of. Why?
 * You have a soft spot for __________, because they remind you of your younger self.
+* You don't trust __________. You're sure they're just waiting for a chance to sell you out and, when they inevitably do, you'll be ready.
