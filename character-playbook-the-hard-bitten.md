@@ -1,4 +1,4 @@
-#The Hard-Bitten
+# The Hard-Bitten
 Name:  
 Pronouns:  
 Appearance:  
