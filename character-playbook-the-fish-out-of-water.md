@@ -8,4 +8,6 @@ Relationships: Pick one for each other character
 - ___________ scares you more than any of the others. Discuss with them why that is.
 - ___________ is the one member of your crew who you simply don't understand. Give them an example of something they did that still puzzles you to this day.
 - You look up to ___________ as a role model. One day you want to be like them. Tell them why.
-- TODO 3 more
+- TODO
+- TODO
+- TODO
