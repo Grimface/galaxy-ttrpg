@@ -5,4 +5,4 @@ Choose one for yourself:
 - The Hard-Bitten *(Ex-Navy/Marines/Law/...)*
 - The Hunted *(Escaped lab subject/Android/Criminal/...)*
 - The Fish-Out-Of-Water *(Displaced royal/Alien far from home/...)*
-- The Fallen (Fading media star/Ruined CEO/Defrocked priest/...)*
+- The Fallen *(Fading media star/Ruined CEO/Defrocked priest/...)*
