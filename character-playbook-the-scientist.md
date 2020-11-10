@@ -17,6 +17,7 @@ Pick one for each other character.
 - ___________ was sent to “deal with” you and the threat posed by your research, but they didn’t go through with it. Tell/ask them why they changed their mind and let you live.
 - You and ___________ were nearly romantically involved once. Agree with them why it would never work between you.
 - You and ___________ are related. Tell them how close.
+- TODO
 
 ---
 
