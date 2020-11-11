@@ -1,8 +1,15 @@
 # The Hard-Bitten
 ### Name:  
+________________________  
+
 ### Pronouns:  
-### Appearance:  
-### Relationships: Pick one for each other character
+___________/____________  
+
+### Appearance:
+Pick one.  
+
+### Relationships: 
+Pick one for each other character:
 - You and __________ fought side by side one time, when the odds were against you and death seemed certain. Tell them what happened. 
 - You find it hard to trust people but __________ is the one person with whom you would trust your life. You’re sure they will never let you down.
 - __________ and you were once romantically involved.  Agree with each other why it didn’t work.
@@ -15,7 +22,7 @@
 ### Pick three moves:
 - [ ] __Remember Your Training__. You roll with +1 to __Act Under Pressure__.
 - [ ] __Combat Hardened__. You have +1 _Armour_ in addition to whatever armour you're wearing.
-- [ ] __No Time To Bleed__. You may ignore up to 3 points of injury through sheer bloody-mindedness. However, for every point of injury ignored in this way, the GM gets to deduct 1 from any of your rolls until all such points are spent.
+- [ ] __No Time To Bleed__. You may ignore up to 3 points of injury through sheer bloody-mindedness. However, for every point of injury ignored in this way, the GM may deduct 1 from any of your rolls they choose, until all such points are spent.
 - [ ] TODO
 - [ ] TODO
 - [ ] TODO
