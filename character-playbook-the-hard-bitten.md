@@ -11,7 +11,7 @@ Pick at least one:
 
 ### Relationships
 Pick one for each other character:
-- You and __________ fought side by side one time, when the odds were against you and death seemed certain. Tell them what happened. 
+- You and __________ fought side by side one time, when the odds were against you and death seemed certain. Agree with them what happened, and name the mutual friend who was there with both of you, but didn't survive.
 - You find it hard to trust people but __________ is the one person with whom you would trust your life. You’re sure they will never let you down.
 - __________ and you were once romantically involved.  Agree with each other why it didn’t work.
 - You were supposed to kill __________ but you didn’t. Why not? And why were you going to kill them?
