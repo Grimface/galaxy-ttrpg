@@ -15,7 +15,7 @@
 ### Pick A Background:
 - [ ] Ruined Zillionaire Ex-CEO. You were a high-flying, cutthroat executive. You took it hard when it all collapsed and you lost everything.
 - [ ] Fading Media Star. A few years ago, you were a household name in thousands of star systems. Today, you're in the "Where are they now?" file.
-- [ ] Digraced Noble/Poltician. You had the ear of every president, king, and civil servant for light years around, until the incident. Now your name is spoken only in whispers, as a horrible example.
+- [ ] Disgraced Noble/Poltician. You had the ear of every president, king, and civil servant for light years around, until the incident. Now your name is spoken only in whispers, as a horrible example.
 
 ### Pick Three Moves:
 - [ ] TODO
