@@ -15,7 +15,7 @@
 ### Pick a background:
 - [ ] Alien, lost and far from home. Struggling to fit in.
 - [ ] Displaced royalty, unfamiliar with everyday tasks they've never had to perform for themselves.
-- [ ] Newly sentient robot, slowly learning how to be a Good Person. And, crucially, not freak everyone out.
+- [ ] Newly sentient robot, slowly learning how to be a Good Person. And, ideally, not freak everyone out.
 
 ### Pick three moves:
 - [ ] TODO
