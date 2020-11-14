@@ -4,8 +4,8 @@
 ### Appearance:  
 ### Pick a relationship between you and at least one other character:
 - ___________ risked everything to help you escape. Agree with them why they did it.
-- ___________ had a perfect opportunity to claim the bounty on your head, but they didn't. Tell them why not.
-- ___________ abandoned you when your recapture was imminent. Tell them what happened and how you escaped.
+- ___________ had a perfect opportunity to claim the bounty on your head, but they didn't. Agree with them why not.
+- ___________ abandoned you when your recapture was imminent. Agree with them what happened and how you escaped.
 - You knew ___________ back before your troubles began. How did you know them?
 - ___________ is the first person to make you laugh since you went on the run. Tell/ask them what they did to cheer you up.
 - You aren't sure you can trust ___________. Tell them why.
