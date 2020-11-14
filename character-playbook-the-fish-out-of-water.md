@@ -8,14 +8,14 @@
 - ___________ scares you more than any of the others. Discuss with them why that is.
 - ___________ is the one member of your crew who you simply don't understand. Give them an example of something they did that still puzzles you to this day.
 - You look up to ___________ as a role model. One day you want to be like them. Tell them why.
-- ___________ 
+- You are starting to fall for ___________ romantically but are struggling to process it. Agree with their player whether that's OK, and how both your characters are handling it. I.e. Are they even aware? Do the two of you have a future? 
 - TODO
 - TODO
 
 ### Pick a background:
 - [ ] Alien, lost and far from home. Struggling to fit in.
-- [ ] Displaced royalty, struggling to cope with everyday tasks.
-- [ ] TODO
+- [ ] Displaced royalty, unfamiliar with everyday tasks they've never had to perform themselves.
+- [ ] Newly sentient robot, slowly learning how to be a Good Person. And, crucially, not freak everyone out.
 
 ### Pick three moves:
 - [ ] TODO
