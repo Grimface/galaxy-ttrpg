@@ -1,15 +1,12 @@
 # The Scientist
 
 Name:  
-
 Pronouns:  
-
 Appearance:  
 
 ---
 
-### Relationships:  
-Pick one for each other character.  
+### Pick a relationship between you and at least one other character:
 - ___________ Saved you from a sticky situation. Tell them what happened. 
 - ___________ provided you with a vital piece of kit for your workshop/laboratory.  Tell them what it was and ask where they got it from.
 - You and ___________ are old friends from college.
@@ -21,7 +18,7 @@ Pick one for each other character.
 
 ---
 
-### Pick 3 moves:
+### Pick three moves:
 When you use a medkit to __Patch Someone Up__ in or after combat, you may roll *+Sharp* instead of *+Cool*:
 - On a 10+ they recover from 3 injuries. 
 - On a 7-9 they recover from 2 injuries.

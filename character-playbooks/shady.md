@@ -1,8 +1,11 @@
 # The Shady
-Name:  
-Pronouns:  
-Appearance:   
-Relationships: Pick one for each other character
+### Name:  
+### Pronouns:  
+### Appearance:   
+
+---
+
+### Pick a relationship between you and at least other character:
 - _________ once helped you escape the clutches of the law. Tell them what happened. 
 - _________ worked with you on an illegal job years ago. Agree with them what it was, and how it turned out.
 - You and _________ are unlikely friends from way back. Agree with them what brought you together.
@@ -12,3 +15,7 @@ Relationships: Pick one for each other character
 - You and _________ were once cellmates in prison. What were you both in for?
 - _________ was the victim of a crime you committed some time ago that you now regret. What happened? Do they know it was you? And how have you decided to make it up to them?
 - __________ and you were once romantically involved.  Agree with each other why it didn’t work, and (optionally) name the planet or city where it all went sour.
+
+---
+
+### Pick three moves:
