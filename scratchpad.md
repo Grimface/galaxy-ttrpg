@@ -25,4 +25,27 @@ Could Mysterious Hermit and Disgraced Priest be rolled into one?  Book, the digr
 
 Whilst Takeshi Kovacs is more Cyberpunk than hard scifi in book 1, book 2 is pure scifi. However, I suspect he can be rolled up into the escaped lab subject.  
 
-Can Cocky Smuggler and Ace Pilot be rolled up into one?  "Ace Pilot" could simply be a move that several playbooks have.  So some moves would appear in multiple playbooks, unlike MotW or DW.  Having said that, I can see why those two games eschewed overlapping special moves. All that would happen is that players would coordinate to ensure that all core skills were covered, meaning that you'd be choosing your character moves by comittee, rather than by what you think would be cool.
+Can Cocky Smuggler and Ace Pilot be rolled up into one?  "Ace Pilot" could simply be a move that several playbooks have.  So some moves would appear in multiple playbooks, unlike MotW or DW.  Having said that, I can see why those two games eschewed overlapping special moves. All that would happen is that players would coordinate to ensure that all core skills were covered, meaning that you'd be choosing your character moves by comittee, rather than by what you think would be cool.  
+
+Bounty Hunter can Bruiser/Gun-Nut can be rolled into one quite easily.
+
+Escaped Lab Subject/Bio-engineered-super-soldier could roll up with Time-displaced Action Hero, but the Time-Displaced might just as easily roll up with Ace Pilot, or Bruiser. If we lean away from existing film/TV characters, then the Time-displaced would make an interesting hermit.
+
+
+All of the above reduces the list down to:
+
+- Cocky smuggler/Ace pilot
+- Science officer 
+- Overworked engineer (Kaylee Frye from Firefly/Scotty from Star Trek)
+- Bounty Hunter/Bruiser/Gun Nut
+- Mysterious hermit/Enigmatic alien/Disgraced priest
+- Noble/politician who Gets Shit Done (Leia Organa from Star Wars/Wilma Deering from Buck Rogers?/All the Star Trek captains)
+- Escaped lab subject/Bio-engineered Super-soldier 
+- Droid/Android (R2D2, C3P0, BB8 from Star Wars/Data from Star Trek/Marvin from HHGTTG/Tweakie from Buck Rogers)
+- Time-displaced Action Hero
+
+I'm still leaning back towards having archetypes with a choice of backgrounds, rather than lots of individual playbooks.  
+E.g.  The Bruiser with backgrounds
+- Bounty Hunter <It's just business. Nothing personal>
+- Person from a byegone era, thawed out of cryo-storage. "We did things differently back then...<thwack!>"
+- Bio-engineered Super-Soldier. "I don't know where all these bodies came from, but I blacked out for a second"
