@@ -21,4 +21,8 @@ What individual playbooks might there be, if I were to cover off all the popular
 
 Could the Enigmatic Alien and the Mysterious Hermit be rolled into 1? I suspect they'll both have very similar moves.
 
-Whilst Takeshi Kovacs is more Cyberpunk than hard scifi in book 1, book 2 is pure scifi. However, I suspect he can be rolled up into the escaped lab subject.
+Could Mysterious Hermit and Disgraced Priest be rolled into one?  Book, the digraced priest, is pretty much the only example of the "Fallen" archetype that I can think of immediately.  Maybe also Leia Organa, as Royalty whose planet was destroyed? I guess there's some overlap between the Hermit and the Fallen, given Obi Wan Kenobi's example. He obviously fits The Hermit, but also as one of the last Jedi Knights, now in hiding, he fits The Fallen pretty well too I guess.   If the Hermit had a choice of backgrounds or reasons for being a hermit, one of them could be "Last of a secret order, driven underground by the Conglomerate."
+
+Whilst Takeshi Kovacs is more Cyberpunk than hard scifi in book 1, book 2 is pure scifi. However, I suspect he can be rolled up into the escaped lab subject.  
+
+Can Cocky Smuggler and Ace Pilot be rolled up into one?  "Ace Pilot" could simply be a move that several playbooks have.  So some moves would appear in multiple playbooks, unlike MotW or DW.  Having said that, I can see why those two games eschewed overlapping special moves. All that would happen is that players would coordinate to ensure that all core skills were covered, meaning that you'd be choosing your character moves by comittee, rather than by what you think would be cool.
