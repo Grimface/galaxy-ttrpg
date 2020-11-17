@@ -1,4 +1,7 @@
 # The Hard-Bitten
+
+Your time in the military changed you. You saw things no-one should have to see, and did things no-one should have to do. 
+
 ### Name 
   
 
@@ -9,8 +12,7 @@
 Pick at least one:
 
 
-### Relationships
-Pick one for each other character:
+### Pick a relationship between you and at least one other character:
 - You and __________ fought side by side one time, when the odds were against you and death seemed certain. Agree with them what happened, and (optionally) name the mutual friend who was there with both of you, but didn't survive.
 - You find it hard to trust people but __________ is the one person with whom you would trust your life. You’re sure they will never let you down. Tell them why.
 - __________ and you were once romantically involved.  Agree with each other why it didn’t work, and (optionally) name the planet or city where it all went sour.
