@@ -49,3 +49,25 @@ E.g.  The Bruiser with backgrounds
 - Bounty Hunter <It's just business. Nothing personal>
 - Person from a byegone era, thawed out of cryo-storage. "We did things differently back then...<thwack!>"
 - Bio-engineered Super-Soldier. "I don't know where all these bodies came from, but I blacked out for a second"
+
+
+Given that I also want to be able to squeeze each playbook onto one sheet of A4 (or US Letter) I suspect I won't have room to do all the bits of a MotW playbook plus backgrounds that include a move each.  Maybe if I squish moves and backgrounds together, so each move says/implies something about the background of the character?  
+
+What do I want in each playbook?  
+With 3 columns in landscape orientation, I have 6 columns in total. 1/2 a column for some art maybe. 1/2 column for playbook title and blurb. So 5 columns.
+
+- Name
+- Pronouns
+- Appearance
+- Relationships = at least 1 column
+- Moves = 2-3 columns
+- Gear = 1 column
+- Stats (including health?) = 1 column. Maybe 2, depending on how I implement harm.
+
+I think the background+move idea could easily eat one of those columns. Maybe even 2. I'm already looking at 5-6 columns gone even without that.
+
+So what might "move + background" look like?
+
+- [ ] __Nothing Personal__. Your time as a bounty hunter has left you cold and dispassionate about the harm you inflict on others.  When you _Resort To Violence_ you may roll +Cool rather than +Tough.
+- [ ] __Artificial Reflexes__. 
+- [ ] __The Old-Fashioned Way__. These new-fangled weapons are all very well, but back in your day you knew how to get the job done up close and personal. When you __Resort To Violence__ using a melee weapon, or unarmed, you may roll with +1.
