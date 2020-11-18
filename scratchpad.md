@@ -68,6 +68,12 @@ I think the background+move idea could easily eat one of those columns. Maybe ev
 
 So what might "move + background" look like?
 
-- [ ] __Nothing Personal__. Your time as a bounty hunter has left you cold and dispassionate about the harm you inflict on others.  When you _Resort To Violence_ you may roll +Cool rather than +Tough.
-- [ ] __Artificial Reflexes__. 
-- [ ] __The Old-Fashioned Way__. These new-fangled weapons are all very well, but back in your day you knew how to get the job done up close and personal. When you __Resort To Violence__ using a melee weapon, or unarmed, you may roll with +1.
+- [ ] __Nothing Personal__. Your time as a bounty hunter has left you cold and dispassionate about the harm you inflict on others.  When you __Resort To Violence__ you may roll _+Cool_ rather than _+Tough_.
+- [ ] __Amped Reflexes__. Bio-engineered soldiers like yourself can often react without having to think about it, but the adrenalin comedown always takes it's toll. When you __Resort To Violence__, you can roll with +1, +2 or +3. But the GM can apply an equivalent penalty to one of your future rolls for any move. You may not use this move again until the GM has applied that penalty.
+- [ ] __The Old-Fashioned Way__. These new-fangled weapons are all very well but back in your day, before they thawed you out, you knew how to get the job done up close and personal. When you __Resort To Violence__ using a melee weapon, or unarmed, you may roll with +1.
+
+So those might look a bit clunky, but they kind of work. But would they work better without the explicit background being mentioned?
+
+- [ ] __Nothing Personal__. Something in your past has left you cold and dispassionate about inflicting harm on others.  When you __Resort To Violence__ you may roll _+Cool_ rather than _+Tough_.
+- [ ] __Amped Reflexes__. Your bio-engineering means you can often react without having to think about it, but the adrenalin comedown always takes it's toll. When you __Resort To Violence__, you can roll with +1, +2 or +3. But the GM can apply an equivalent penalty (e.g -2 if you chose +2) to one of your future rolls for any move. You may not use this move again until the GM has applied that penalty.
+- [ ] __The Old-Fashioned Way__. These new-fangled weapons are all very well but back in your day you knew how to get the job done up close and personal. When you __Resort To Violence__ using a melee weapon, or unarmed, you may roll with +1.
