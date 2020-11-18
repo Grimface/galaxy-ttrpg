@@ -77,3 +77,13 @@ So those might look a bit clunky, but they kind of work. But would they work bet
 - [ ] __Nothing Personal__. Something in your past has left you cold and dispassionate about inflicting harm on others.  When you __Resort To Violence__ you may roll _+Cool_ rather than _+Tough_.
 - [ ] __Amped Reflexes__. Your bio-engineering means you can often react without having to think about it, but the adrenalin comedown always takes it's toll. When you __Resort To Violence__, you can roll with +1, +2 or +3. But the GM can apply an equivalent penalty (e.g -2 if you chose +2) to one of your future rolls for any move. You may not use this move again until the GM has applied that penalty.
 - [ ] __The Old-Fashioned Way__. These new-fangled weapons are all very well but back in your day people knew how to get the job done up close and personal. When you __Resort To Violence__ using a melee weapon, or unarmed, you may roll with +1.
+
+
+Simple World suggests that playbook moves should follow these templates:
+- When you do something relating to _specialty_, add +1.
+- You have the ability to _do some sort of active special power_. It counts
+as a basic move using _stat_.
+- You have _some special passive power that has a constant effect_.
+- You have a _thing_. When applicable, it adds +1 to _stat_ and _stat_.
+- When you do _specialty_, mark XP.
+- Add +1 to _stat_
