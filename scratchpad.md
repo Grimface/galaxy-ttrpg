@@ -76,4 +76,4 @@ So those might look a bit clunky, but they kind of work. But would they work bet
 
 - [ ] __Nothing Personal__. Something in your past has left you cold and dispassionate about inflicting harm on others.  When you __Resort To Violence__ you may roll _+Cool_ rather than _+Tough_.
 - [ ] __Amped Reflexes__. Your bio-engineering means you can often react without having to think about it, but the adrenalin comedown always takes it's toll. When you __Resort To Violence__, you can roll with +1, +2 or +3. But the GM can apply an equivalent penalty (e.g -2 if you chose +2) to one of your future rolls for any move. You may not use this move again until the GM has applied that penalty.
-- [ ] __The Old-Fashioned Way__. These new-fangled weapons are all very well but back in your day you knew how to get the job done up close and personal. When you __Resort To Violence__ using a melee weapon, or unarmed, you may roll with +1.
+- [ ] __The Old-Fashioned Way__. These new-fangled weapons are all very well but back in your day people knew how to get the job done up close and personal. When you __Resort To Violence__ using a melee weapon, or unarmed, you may roll with +1.
