@@ -80,7 +80,7 @@ So those might look a bit clunky, but they kind of work. But would they work bet
 
 
 Simple World suggests that playbook moves should follow these templates:
-- When you do something relating to _specialty_, add +1.
+- When you do something relating to [_specialty_], add +1.
 - You have the ability to _do some sort of active special power_. It counts
 as a basic move using _stat_.
 - You have _some special passive power that has a constant effect_.
