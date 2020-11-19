@@ -87,3 +87,7 @@ as a basic move using _stat_.
 - You have a [_thing_]. When applicable, it adds +1 to [_stat_] and [_stat_].
 - When you do [_specialty_], mark XP.
 - Add +1 to [_stat_].
+
+
+Based on that, the __Amped Reflexes__ move above might look more like 
+- [ ] __Amped Reflexes__. Your bio-engineering means you can often react without having to think about it. When you __Defy Danger__ to avoid a sudden hazard or suprise attack, roll with +1.
