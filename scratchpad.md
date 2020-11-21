@@ -90,4 +90,37 @@ as a basic move using _stat_.
 
 
 Based on that, the __Amped Reflexes__ move above might look more like 
-- [ ] __Amped Reflexes__. Your bio-engineering means you can often react without having to think about it. When you __Defy Danger__ to avoid a sudden hazard or suprise attack, roll with +1.
+- [ ] __Amped Reflexes__. Your bio-engineering means you can often react without having to think about it. When you __Defy Danger__ to avoid a sudden hazard or suprise attack, roll with +1. _(Note, this might be a bit OP, as both Defy Danger and Resort to Violence are likely to be the most common rolls in an action-heavy game.)_
+
+
+In order to build a "Jedi Knight" character, I can see that the player might wish to choose something like the Mysterious Hermit PLaybook but give them the __The Old-Fashioned Way__ move. Unless I simply create a playbook for the Jedi-Knight-ish character archetype, with moves relying on _Anomalous_ and then a smattering requiring _Cool_ or _Tough_, or maybe even _Charm_.
+
+What to call the various playbooks? The Hard-bitten only really works for law-enforcement and military, but not all violent characters will have that background.
+I guess at this point it's worth checking whether I really want to try providing playbooks for all possible TV/Movie Scifi archetypes? Or whether to just go back to the ones I initially thought of. I guess players will identify more naturally with archetypes that remind them of specific characters from the media.  
+I guess this is where I have to decide whether I'm making a hard-scifi game like Traveller, or some kind of Space Opera kind of game more like Star Wars (i.e. Monster of the Week in Space, as I originally envisaged).  If I'm making Space Opera, then leaning on familiar archetypes makes more sense.  All of the MotW playbooks pull from existing TV shows or movie franchises, after all.
+
+
+- Cocky smuggler/Ace pilot
+- Science officer 
+- Overworked engineer (Kaylee Frye from Firefly/Scotty from Star Trek)
+- Bounty Hunter/Bruiser/Gun Nut
+- Mysterious hermit/Enigmatic alien/Defrocked priest\*
+- Noble/politician who Gets Shit Done (Leia Organa from Star Wars/Wilma Deering from Buck Rogers?/All the Star Trek captains)
+- Escaped lab subject/Bio-engineered Super-soldier 
+- Droid/Android (R2D2, C3P0, BB8 from Star Wars/Data from Star Trek/Marvin from HHGTTG/Tweakie from Buck Rogers)
+- Time-displaced Action Hero
+
+I'm tempted to roll the Defrocked Priest up into the Noble/Politician one, and make them "Disgraced/Displaced Noble/Policitian/Priest". This is much closer to the original playbook idea for "The Fallen". That also leaves "Mysterious Hermit/Enigmatic Alien" a bit cleaner, as they'll lean heavily on anomalies in a way that wouldn't fit a priest.
+
+I might also move "Escaped Lab Subject" into the Mysterious playbook and the Bio-engineered Super Soldier into the Bruiser playbook.  That leaves it looking more like this;
+
+- Cocky smuggler/Ace pilot
+- Science officer 
+- Overworked engineer
+- Bounty Hunter/Gun Nut/Bio-engineered Super-soldier 
+- Mysterious hermit/Enigmatic alien/Escaped lab subject
+- Fallen royal/politician/clergy
+- Droid/Android
+- Time-displaced Action Hero
+
+That still means I need to have some way for the Mysterious playbook to get a melee weapon move, if I want people to replicate a jedi. Not a showstopper but I'd need to reword the move a bit from the _Old-Fashioned Way_ mentioned above.
