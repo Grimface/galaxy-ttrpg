@@ -123,4 +123,19 @@ I might also move "Escaped Lab Subject" into the Mysterious playbook and the Bio
 - Droid/Android
 - Time-displaced Action Hero
 
-That still means I need to have some way for the Mysterious playbook to get a melee weapon move, if I want people to replicate a jedi. Not a showstopper but I'd need to reword the move a bit from the _Old-Fashioned Way_ mentioned above.
+That still means I need to have some way for the Mysterious playbook to get a melee weapon move, if I want people to replicate a jedi. Not a showstopper but I'd need to reword the move a bit from the _Old-Fashioned Way_ mentioned above.  
+
+Also, the droid/android could be a background within another playbook or two, rahter than playbook on its own.
+
+What moves might they all have? (names only, don't worry about effects yet). 
+- Cocky smuggler/Ace pilot
+  - On your six
+  - Punch it Chewie
+  - TODO
+- Science officer 
+- Overworked engineer
+- Bounty Hunter/Gun Nut/Bio-engineered Super-soldier 
+- Mysterious hermit/Enigmatic alien/Escaped lab subject
+- Fallen royal/politician/clergy
+- Droid/Android
+- Time-displaced Action Hero
