@@ -131,11 +131,48 @@ What moves might they all have? (names only, don't worry about effects yet).
 - Cocky smuggler/Ace pilot
   - On your six
   - Punch it Chewie
+  - Smooth Operator
   - TODO
-- Science officer 
+  - TODO
+  - TODO
+  - TODO
+- Science officer
+  - According to my readings
+  - Take it back to the lab
+  - TODO
+  - TODO
+  - TODO
+  - TODO
+  - TODO
 - Overworked engineer
-- Bounty Hunter/Gun Nut/Bio-engineered Super-soldier 
+  - Overload the Handwavium Crystals
+  - Get it working again
+  - TODO
+  - TODO
+  - TODO
+- Bounty Hunter/Gun Nut/Bio-engineered Super-soldier
+  - Nothing Personal
+  - The old fashioned way
+  - Remember your training
+  - TODO
+  - TODO
+  - TODO
+  - TODO  
 - Mysterious hermit/Enigmatic alien/Escaped lab subject
+  - Reach out with your feelings
+  - Puny Blasters Can't Hurt Me
+  - Let me show you what they did to 
+  - TODO
+  - TODO
+  - TODO
+  - TODO  
 - Fallen royal/politician/clergy
-- Droid/Android
-- Time-displaced Action Hero
+  - Listen To Me General
+  - TODO
+  - TODO
+  - TODO
+  - TODO
+  - TODO
+  - TODO  
+- (Droid/Android)
+- (Time-displaced Action Hero)
