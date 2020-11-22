@@ -129,39 +129,39 @@ Also, the droid/android could be a background within another playbook or two, ra
 
 What moves might they all have? (names only, don't worry about effects yet). 
 - Cocky smuggler/Ace pilot
-  - On your six
-  - Punch it Chewie
-  - Smooth Operator
+  - On your six. _Something about helping another character in a dogfight situation_
+  - Punch it Chewie. _Make hyperspace calculations in a hurry_
+  - Smooth Operator. _Talk your way out of a sticky situation_
   - TODO
   - TODO
   - TODO
   - TODO
 - Science officer
-  - According to my readings
-  - Take it back to the lab
+  - According to my readings _Extra stuff when using the scanners, either ship or personal_
+  - Take it back to the lab _Figure out the origin/function/method of activation or de-activation for an alien artifact or lifeform_
   - TODO
   - TODO
   - TODO
   - TODO
   - TODO
 - Overworked engineer
-  - Overload the Handwavium Crystals
-  - Get it working again
+  - Overload the Handwavium Crystals _Squeeze an extra bit of performance out of the ship or other machinery_
+  - Get it working again _Fix the ship/machinery to some extent, even with scant resources_
   - TODO
   - TODO
   - TODO
 - Bounty Hunter/Gun Nut/Bio-engineered Super-soldier
-  - Nothing Personal
-  - The old fashioned way
-  - Remember your training
+  - Nothing Personal _Roll Cool rather than Tough in combat_
+  - The old fashioned way _bonus when fighting unarmed or in melee_
+  - Remember your training _Bonus to Defy Danger (or whatever it's called)_
   - TODO
   - TODO
   - TODO
   - TODO  
 - Mysterious hermit/Enigmatic alien/Escaped lab subject
   - Reach out with your feelings
-  - Puny Blasters Can't Hurt Me
-  - Let me show you what they did to 
+  - Puny Blasters Can't Hurt Me _Attempt to deflect missile attacks. Not sure how this would work in practice though..._
+  - Let me show you what they did to me _Roll Anomalous rather than Tough in combat_
   - TODO
   - TODO
   - TODO
