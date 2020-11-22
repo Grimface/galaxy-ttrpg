@@ -1,6 +1,13 @@
 So, for the character playbooks, should they be "Few broad themes, with background options" or "Each background option + theme as it's own playbook"?
 
-I want playbooks to stand alone, a-la Monster Of The Week and Dungeon World. Not have a complicated Traveller-style character creation process like Uncharted Worlds or Impulse Drive.
+I want playbooks to stand alone, a-la Monster Of The Week and Dungeon World. Not have a complicated Traveller-style character creation process like Uncharted Worlds or Impulse Drive.  
+
+With that in mind, I think my options are
+- Lean into existing archetypes from TV/movies
+- Make the playbooks fairly dry things like "Security", "Science", "Engineering" (i.e. close to Star Trek archetypes)
+- Create my own, as I was originally doing. (The Fallen, etc.)
+
+I like the idea of the TV/Movie archetypes, as people will be able to identify with them a bit more easily I think. Especially for a 1-shot kind of game. I think people want familiar things to latch onto in 1-shots, as they don't have much time to develop a nuanced character background etc.
 
 What individual playbooks might there be, if I were to cover off all the popular TV/Movie characters I can think of?
 
