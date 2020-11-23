@@ -146,7 +146,7 @@ What moves might they all have? (names only, don't worry about effects yet).
 - Science officer
   - According to my readings _Extra stuff when using the scanners, either ship or personal_
   - Take it back to the lab _Figure out the origin/function/method of activation or de-activation for an alien artifact or lifeform_
-  - TODO
+  - Plug In To Their Computer
   - TODO
   - TODO
   - TODO
@@ -154,28 +154,28 @@ What moves might they all have? (names only, don't worry about effects yet).
 - Overworked engineer
   - Overload the Handwavium Crystals _Squeeze an extra bit of performance out of the ship or other machinery_
   - Get it working again _Fix the ship/machinery to some extent, even with scant resources_
-  - TODO
+  - Multiplex the Handwavium Reactor
   - TODO
   - TODO
 - Bounty Hunter/Gun Nut/Bio-engineered Super-soldier
   - Nothing Personal _Roll Cool rather than Tough in combat_
   - The old fashioned way _bonus when fighting unarmed or in melee_
   - Remember your training _Bonus to Defy Danger (or whatever it's called)_
-  - TODO
-  - TODO
+  - Favourite Weapon. _While using your favourite weapon, you roll with +1 when you Resort to Violence_
+  - Wired Reflexes
   - TODO
   - TODO  
 - Mysterious hermit/Enigmatic alien/Escaped lab subject
-  - Reach out with your feelings
+  - Reach out with your feelings. _Roll +Anomalous rather than +Brains/whatever when trying to _Read a bad situation_\*
   - Puny Blasters Can't Hurt Me _Attempt to deflect missile attacks. Not sure how this would work in practice though..._
-  - Let me show you what they did to me _Roll Anomalous rather than Tough in combat_
+  - Show you what they did to me _Roll +Anomalous rather than +Tough in combat_
   - TODO
   - TODO
   - TODO
   - TODO  
 - Fallen royal/politician/clergy
   - Listen To Me General
-  - TODO
+  - I Still Have Contacts _Roll +Charm when using your contacts to get something you want. Be it information, a gadget/weapon or a small favour_
   - TODO
   - TODO
   - TODO
@@ -183,3 +183,5 @@ What moves might they all have? (names only, don't worry about effects yet).
   - TODO  
 - (Droid/Android)
 - (Time-displaced Action Hero)
+
+What about changing "Scientist" to "Academic"? It puts a little more distance between this and the "Engineer" playbook I think. Also allows characters such as a clueless researcher. But that's not a TV/movie trope, so should I cater for it?  Try and finish the playbooks I have already, dumbass!
