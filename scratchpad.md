@@ -166,7 +166,7 @@ What moves might they all have? (names only, don't worry about effects yet).
   - TODO
   - TODO  
 - Mysterious hermit/Enigmatic alien/Escaped lab subject
-  - Reach out with your feelings. _Roll +Anomalous rather than +Brains/whatever when trying to _Read a bad situation_\*
+  - Reach out with your feelings. _Roll +Anomalous rather than +Brains/whatever when trying to Read a bad situation_\*
   - Puny Blasters Can't Hurt Me _Attempt to deflect missile attacks. Not sure how this would work in practice though..._
   - Show you what they did to me _Roll +Anomalous rather than +Tough in combat_
   - TODO
