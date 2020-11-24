@@ -138,23 +138,25 @@ What moves might they all have? (names only, don't worry about effects yet).
 - Cocky smuggler/Ace pilot
   - On your six. _Something about helping another character in a dogfight situation_
   - Punch it Chewie. _Make hyperspace calculations in a hurry_
-  - Smooth Operator. _Talk your way out of a sticky situation_
-  - TODO
+  - Fast Talk. _Talk your way out of a sticky situation_
+  - Shoot First _In any given combat you may shoot first, but at a penalty of -1 to your roll ignoring any other positive bonuses you may have_
   - TODO
   - TODO
   - TODO
 - Science officer
   - According to my readings _Extra stuff when using the scanners, either ship or personal_
   - Take it back to the lab _Figure out the origin/function/method of activation or de-activation for an alien artifact or lifeform_
-  - Plug In To Their Computer
+  - I'm In! _+1 to roll when getting into/finding something in an enemy/other computer system_
   - TODO
   - TODO
   - TODO
   - TODO
 - Overworked engineer
-  - Overload the Handwavium Crystals _Squeeze an extra bit of performance out of the ship or other machinery_
-  - Get it working again _Fix the ship/machinery to some extent, even with scant resources_
-  - Multiplex the Handwavium Reactor
+  - Prayers And String _Fix your ship or other machinery to some extent, even with scant resources_
+  - Multiplex the Handwavium Reactor _Roll +Anomalous to ...?_
+  - TODO
+  - TODO
+  - TODO
   - TODO
   - TODO
 - Bounty Hunter/Gun Nut/Bio-engineered Super-soldier
@@ -176,8 +178,8 @@ What moves might they all have? (names only, don't worry about effects yet).
 - Fallen royal/politician/clergy
   - Listen To Me General
   - I Still Have Contacts _Roll +Charm when using your contacts to get something you want. Be it information, a gadget/weapon or a small favour_
-  - TODO
-  - TODO
+  - Do You Know Who I AM? _Roll with +1 to intimdate people_
+  - Voice Of Authority _You may give someone else +1 on a roll (?)_
   - TODO
   - TODO
   - TODO  
