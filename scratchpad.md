@@ -169,7 +169,7 @@ What moves might they all have? (names only, don't worry about effects yet).
   - TODO  
 - Mysterious hermit/Enigmatic alien/Escaped lab subject
   - Reach out with your feelings. _Roll +Anomalous rather than +Brains/whatever when trying to Read a bad situation_\*
-  - Puny Blasters Can't Hurt Me _Attempt to deflect missile attacks. Not sure how this would work in practice though..._
+  - Puny Blasters Can't Hurt Me _While armed with a suitable melee weapon, and facing enemies firing guns, you are considered to be armed with the same gun, as you attempt to deflect their shots back at them_
   - Show you what they did to me _Roll +Anomalous rather than +Tough in combat_
   - TODO
   - TODO
@@ -187,3 +187,10 @@ What moves might they all have? (names only, don't worry about effects yet).
 - (Time-displaced Action Hero)
 
 What about changing "Scientist" to "Academic"? It puts a little more distance between this and the "Engineer" playbook I think. Also allows characters such as a clueless researcher. But that's not a TV/movie trope, so should I cater for it?  Try and finish the playbooks I have already, dumbass!
+
+## Idea: Pinch the "Advanced Moves" thing from Dungeon World.
+It was the "Jedi deflecting blaster bolts" that gave me this idea.  
+- Starting move could be to simply deflect them so you don't take any damage.  
+- Advanced move means you do damage to your enemies if you succeed
+- Very advanced move means you don't need to be armed with a melee weapon.
+Give the advanced move an XP cost and the very advanced move a much higher XP cost. Maybe have _"Requires Advanced Move"_ for the very advancd move, or just let the higher cost be the gate.
