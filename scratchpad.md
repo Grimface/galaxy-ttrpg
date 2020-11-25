@@ -194,3 +194,5 @@ It was the "Jedi deflecting blaster bolts" that gave me this idea.
 - Advanced move means you do damage to your enemies if you succeed
 - Very advanced move means you don't need to be armed with a melee weapon.
 Give the advanced move an XP cost and the very advanced move a much higher XP cost. Maybe have _"Requires Advanced Move"_ for the very advancd move, or just let the higher cost be the gate.
+
+Seriously though, again: grind out the first version of this without advanced moves.
