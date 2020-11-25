@@ -193,6 +193,15 @@ It was the "Jedi deflecting blaster bolts" that gave me this idea.
 - Starting move could be to simply deflect them so you don't take any damage.  
 - Advanced move means you do damage to your enemies if you succeed
 - Very advanced move means you don't need to be armed with a melee weapon.
-Give the advanced move an XP cost and the very advanced move a much higher XP cost. Maybe have _"Requires Advanced Move"_ for the very advancd move, or just let the higher cost be the gate.
+Give the advanced move an XP cost and the very advanced move a much higher XP cost. Maybe have _"Requires Advanced Move"_ for the very advancd move, or just let the higher cost be the gate.  
 
-Seriously though, again: grind out the first version of this without advanced moves.
+Seriously though, again: grind out the first version of this without advanced moves.  
+
+Maybe one of the reasons I'm struggling with this is that the separation between the archetypes is wrong. Maybe it should be more along the lines of 
+- Ship-focussed (Han?, Chewie, Wash, Scotty, Kaylee, Mr T!) _Flying and Engineering_
+- Science (Spock, Bones, Beverly Crusher
+- Gun (Mandalorian, Jayne Cobb, takeshi Kovacs)
+- Weird (Spock, Maya, Luke Skywalker, Obi-Wan Kenobi, River Tam, Deanna Troi)
+- Charisma (Leia, Mal, Face, Cpt Kirk, Cpt Picard, Deanna Troi, Lt Riker)
+
+Hmmm. I'm still seeing some crossover between playbooks.  Maybe the answer is to have all the moves on one sheet, and say that, if you don't have that move ticked, you simply roll straight 2d6-2, with no stat bonus. That might make the character sheet huge though, and moves away from the MotW playbook idea which is quick to pick up and play wth.
