@@ -205,3 +205,22 @@ Maybe one of the reasons I'm struggling with this is that the separation between
 - Charisma (Leia, Mal, Face, Cpt Kirk, Cpt Picard, Deanna Troi, Lt Riker)
 
 Hmmm. I'm still seeing some crossover between playbooks.  Maybe the answer is to have all the moves on one sheet, and say that, if you don't have that move ticked, you simply roll straight 2d6-2, with no stat bonus. That might make the character sheet huge though, and moves away from the MotW playbook idea which is quick to pick up and play wth.
+
+
+## Post-Laser-Ritter
+So, I bought Laser-Ritter and it's so close to what I want, but I don't like the custom system they've built it around. It has however made me realise that by trying to cater for every SciFi franchise, I'll either never finish writing this, or it won't do any of them very well. I should focus on one (star wars? Fireflay? Star Trek?) and base my first playbooks on that.  
+
+And screw trying to make my system slightly different to MotW. I should just make "MotW In Space". Alien of the Week :)  
+
+Once I have the first playbooks done, I can then add on others to encompass other franchises. So maybe start with Star Wars and then add "Scientist" or "Escaped Lab Subject".
+
+Laser-Ritter has picked 4 playbooks:
+- Freebooter (The Mandalorian, Poe Damaron? )
+- Smuggler (Han Solo, Lando Calrissian)
+- Mystic (Obi Wan Kenobi, Luke Skywalker, Darth Vader etc.)
+- Diplomat (Leia Organa)
+
+It also has a separate "Magic" system for the Mystic, which I'm not comfortable with. The Mystic's powers could easily be dealt with using standard playbook moves IMHO.
+
+I think there's also room for the Droid playbook.
+
