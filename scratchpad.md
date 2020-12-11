@@ -231,5 +231,23 @@ The only other characters who aren't Luke, Leia, Han etc. are not armoured at al
 Ugh, I'm going around in circles. Now I'm thinking that either I base playbooks on characters from the SW franchise, or try to lump them together, as I did originally at the start of all this.  Bounty-Hunter is a decent playbook idea I guess, as is Smuggler, but what about all the other characters who don't fit those, and aren't Droids, Mystics or Diplomats?  
 
 I could have "Pilot" to cover Rose, Poe and Finn, but then Han Solo (smuggler) is also a decent pilot, as is Chewbacca and probably even the Mandalorian.  
-And what about having Rebel Agents such as those from Rogue One? they don't fit into any of the above, but have characteristics from the Smuggler and the Bounty-Hunter (Good with weapons, and sneaking, and probably piloting too.)
+And what about having Rebel Agents such as those from Rogue One? they don't fit into any of the above, but have characteristics from the Smuggler and the Bounty-Hunter (Good with weapons, and sneaking, and probably piloting too.)  
+
+How does MotW handle this? As far as I can tell, they have some playbooks which are obviously based on one character
+- The Chosen = Buffy
+- The Divine = Angel, presumably
+- The Professional = Scully from the X-Files. Possibly Mulder too, but he's closer to...
+- The Flake = Mulder from the X-Files
+- The Spell Slinger = Harry Dresden.
+
+So maybe I should do the same:
+- Fallen Nobility = Leia
+- Smuggler = Han/Chewie/Lando
+- Ancient Order = Obi Wan/Luke/Darth Vader. What about Rey?
+- Ex-Authority Trooper = Finn
+- Resistance Pilot = Poe/Wedge/Porkins/Rose/Finn (Ex-Authority background)
+- Bounty Hunter = The Mandolorian/Cara Dune/IG-11/Boba Fett
+- Droid = BB8/R2D2/IG-11/K2-SO
+- Ingenue = Rey/Luke
+- Resistance Agent = Jyn Erso
 
