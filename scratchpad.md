@@ -222,5 +222,14 @@ Laser-Ritter has picked 4 playbooks:
 
 It also has a separate "Magic" system for the Mystic, which I'm not comfortable with. The Mystic's powers could easily be dealt with using standard playbook moves IMHO.
 
-I think there's also room for the Droid playbook.
+I think there's also room for the Droid playbook. Or maybe make it a background, as there is a droid bounty hunter in the Mandalorian? (IG-11, played by Taika Waititi)
+
+I think the Laser-ritter Freebooter is a bit broad for my taste, but who in the Star Wars franchise is covered by it?  The Mandalorian, certainly. Some of the other bounty hunters in various films/series (Cara Dune, Gina Carano's character in The Mandalorian, and the other bounty hunters in The Empire Strikes Back).  I can't actually think of any other archetypes that are covered by the Freebooter who aren't bounty hunters.  
+
+The only other characters who aren't Luke, Leia, Han etc. are not armoured at all, so don't fit the Freebooter, and some of them aren't shady at all so wouldn't fit the scoundrel. E.g. Rose Tico (Kelly Marie Tran), Finn, Poe.  
+
+Ugh, I'm going around in circles. Now I'm thinking that either I base playbooks on characters from the SW franchise, or try to lump them together, as I did originally at the start of all this.  Bounty-Hunter is a decent playbook idea I guess, as is Smuggler, but what about all the other characters who don't fit those, and aren't Droids, Mystics or Diplomats?  
+
+I could have "Pilot" to cover Rose, Poe and Finn, but then Han Solo (smuggler) is also a decent pilot, as is Chewbacca and probably even the Mandalorian.  
+And what about having Rebel Agents such as those from Rogue One? they don't fit into any of the above, but have characteristics from the Smuggler and the Bounty-Hunter (Good with weapons, and sneaking, and probably piloting too.)
 
