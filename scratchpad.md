@@ -251,3 +251,11 @@ So maybe I should do the same:
 - Ingenue = Rey/Luke
 - Resistance Agent = Jyn Erso
 
+---
+
+Dec 27th 2020:   
+I've realised my choice comes down to "Create my own setting" or "Leave it more or less setting-independent but base each playbook on a TV/Movie character".  
+
+Not sure which I prefer. There's already a Star Wars PbtA game, which looks good, but more crunchy than I'm looking for. Less crunchy than Uncharted Worlds or Impulse Drive though, which is something I suppose.  I guess if I'm looking to copy Monster of the Week, then the second option is preferable/easier.  I suppose also that I don't need to mention "The Empire" or "Browncoats" or anything seting-specific. I could just refer to "The Authorities" (The Authority?) and "The War". 
+
+Am I going to bother with Space Jam, on itch.io? The deadline for game submissions is Jan 25th. That could be do-able, but I don't much fancy a deadline. Also, the "No Fascists" bit is a thorny issue. Does that mean no Fascist empires to be overthrown?
